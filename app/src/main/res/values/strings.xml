@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Task &amp; Focus</string>
+    <string name="channel_task_reminders">Task Reminders</string>
+    <string name="channel_task_reminders_desc">Notifications for scheduled tasks and upcoming deadlines</string>
+    <string name="channel_focus_sessions">Focus Timer &amp; Study Sessions</string>
+    <string name="channel_focus_sessions_desc">Alerts when study sessions or break intervals complete</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "Task & Focus Scheduler",
+  "description": "Smart task scheduler and focus study session manager with custom timers, notifications, and productivity analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
